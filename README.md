@@ -8,3 +8,6 @@
 5. Запускаем клиент из папки Versta-client2 используя команду `npm run start`
 6. Открываем браузер и запускаем http://localhost:3000/
 7. Переходим по страницам, чтобы посмотреть результат
+
+### Ссылка на видео-демонстацию работы приложения
+[Демонстрация](https://drive.google.com/file/d/1dAIqhSsAElOPve9gY6nFigQd0sHBuR41/view?usp=sharing)
